@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "593352975406",
+    "project_id": "auth-login-inter",
+    "storage_bucket": "auth-login-inter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593352975406:android:abbfef3ccc21cd958a6bbf",
+        "android_client_info": {
+          "package_name": "com.example.auth_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593352975406-ums970ugtto5g9vt9ap4tmremldrumok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UerZiV7f-CZxJEu4d9jXCNhKI25RQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593352975406-ums970ugtto5g9vt9ap4tmremldrumok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593352975406-dn3ghocfghut0p8ep8d6vr14id2mgv7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
